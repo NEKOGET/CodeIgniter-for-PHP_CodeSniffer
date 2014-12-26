@@ -1,10 +1,9 @@
 {
-    "name": "NEKOGET/CodeIgniter-for-PHP_CodeSniffer",
+    "name": "nekoget/codeIgniter-for-php-codesniffer",
     "authors": [
         {
             "name": "MIYAGAWA, Takako",
             "email": "info@nekoget.net"
         }
-    ],
-    "require": {}
+    ]
 }
